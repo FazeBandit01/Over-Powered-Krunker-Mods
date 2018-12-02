@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Over-Powered Krunker Mods
-// @version      3.3.1
+// @version      0.1
 // @description  Some crazy stuff
 // @author       Logi6000
 // @include        /^(https?:\/\/)?(www\.)?krunker\.io(|\/|\/\?server=.+)$/
